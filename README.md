@@ -12,3 +12,5 @@ device:=/dev/ttyTHS1 .
 Step 4: Start the prediction node. Ctrl+Shift+T to open a new tab in the terminal in step
 one. Start the prediction node by rosrun data_record_predict.py . 
 The main script is data_record_predict.py .
+
+![image](https://user-images.githubusercontent.com/86708111/124537546-ab6f2200-de4c-11eb-896b-bc4b86974029.png)
